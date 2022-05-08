@@ -5,7 +5,7 @@ Analysis using SQL,
 The purpose of this analysis is to identify the number of employees by title, who are eligible for a mentorship program, as well as a report for the current employees who have reached retirement age.
 ## Results:
 From the two different queries that were created, there are four major points:
-- There are a total of 50,842 total senior staff that have hit the age of retirement. ![The chart below shows the total number of positions eligible for reitrement](Retiring_titles.png)
+- There are a total of 50,842 total senior staff that have hit the age of retirement, and a total of 72,458 employees that will retire, as seen in the chart below. ![The chart below shows the total number of positions eligible for reitrement](Retiring_titles.png)
 - There are roughly 1,550 eligible employees for the mentorship program.
 - Roughly 70% of employees who have hit the retirement age are senior staff, 13% are engineers.
 - The total number of employees who have hit the age of retirement make up nearly a quarter of tottal employees at Pewleet Hackard.
